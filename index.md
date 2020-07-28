@@ -1,3 +1,12 @@
+description: > # your text below (remove <br> elements if you don't need line breaks)
+Hello There! My name is Jonathan DelGizzi, and I am a graduate student studying Aerospace Engineering and Material Science at Washington University in St. Louis 
+  <a href="https://www.linkedin.com/in/jonathan-delgizzi-177483108/">Resume</a> 
+
+
+
+
+
+
 ## Portfolio
 
 ---
