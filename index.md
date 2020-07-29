@@ -1,5 +1,4 @@
-Hello There! My name is Jonathan DelGizzi, and I am a graduate student studying Aerospace Engineering and Material Science at Washington University in St. Louis 
-  <a href="https://www.linkedin.com/in/jonathan-delgizzi-177483108/">Resume</a> 
+Hello There! My name is Jonathan DelGizzi, and I am a graduate student studying Aerospace Engineering and Material Science at Washington University in St. Louis. You'll find a portfolio containing some of the projects that I have worked on. Please excuse any dead links, missing pictures or 404 errors, as this website is still under construction. 
 
 
 
