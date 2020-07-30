@@ -1,5 +1,5 @@
 title: Jonathan DelGizzi # your name (or website title) here
-logo: "/images/Self.jfif?raw=true" # your photo (or logo) here
-Description: 
-
-theme: jekyll-theme-Minimal
+	logo: "/images/Self.jfif?raw=true" # your photo (or logo) here
+	description:
+	 <a href="https://www.linkedin.com/in/jonathan-delgizzi-177483108/">Resume</a> 
+	theme: jekyll-theme-Minimal
