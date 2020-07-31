@@ -13,7 +13,7 @@ Hello There! My name is Jonathan DelGizzi, and I am a graduate student studying 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+testin testing 123
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
